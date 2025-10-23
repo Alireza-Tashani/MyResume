@@ -12,9 +12,9 @@
 
 **موقعیت مکانی** : استان بوشهر، شهرستان جم
 
-**[گیت هاب](https://github.com/alirezatd80)**
+**[گیت هاب](https://github.com/Alireza-Tashani)**
 
-**[لینکدین](https://github.com/alirezatd80)**
+**[لینکدین]()**
 
 ---
 
